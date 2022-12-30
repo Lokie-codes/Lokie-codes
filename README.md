@@ -1,4 +1,4 @@
-# Hi, I'm Lokie-codes!
+# Hi, I'm Lokesh!
 
 I am a software developer with a passion for creating innovative solutions to complex problems.
 
