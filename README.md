@@ -1,6 +1,6 @@
 # Hey there! I'm Lokesh, the code wizard
 
-I may not have a long white beard, but I do have a pretty impressive arsenal of programming languages at my disposal. C++, Java, Python, and JavaScript are all in my wheelhouse, and I'm no slouch when it comes to web development frameworks like Django and Flask either.
+I may not have a long white beard, but I do have a pretty impressive arsenal of programming languages at my disposal. Java and Python are in my wheelhouse, and I'm no slouch when it comes to web development frameworks like Django and Flask either.
 
 ## Skills
 
